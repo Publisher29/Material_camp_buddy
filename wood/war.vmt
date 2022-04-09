@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"wood\war"
+	"$selfillum" "1"
+	"$surfaceprop" "wood_plank"
+
+}
